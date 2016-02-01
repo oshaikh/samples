@@ -2,6 +2,8 @@
 
 ## Building and running instructions:
 
+### Using G++
+
 ```
 g++ -c main.cpp
 g++ -c factorial.cpp
@@ -12,10 +14,21 @@ g++ main.o factorial.o
 
 ```
 
-### ----OR----
+#### ----OR----
 
 ```
 g++ main.cpp factorial.cpp
 ./a.out
 
 ```
+
+### Using Eclipse
+
+
+* File -> new -> C++ Project
+* Enter in a project name
+* Uncheck 'Use default location'
+* Browse the location to the folder 'factorialInCppEclipse'
+* Select project type as Executable -> Empty Project 
+* Select Finish
+* Build and then Run
