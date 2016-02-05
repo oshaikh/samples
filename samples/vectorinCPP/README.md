@@ -1,11 +1,11 @@
-# Size Of data types in CPP
+# Vectors in CPP
 
 ## Building and running instructions:
 
 ### Using G++
 
 ```
-g++ sizeOfInCppGppMain.cpp
+g++ vectorInCppGppMain.cpp
 ./a.out
 
 ```

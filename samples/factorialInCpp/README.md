@@ -5,7 +5,7 @@
 ### Using G++
 
 ```
-g++ -c main.cpp
+g++ -c factorialInCppGppMain.cpp
 g++ -c factorial.cpp
 
 g++ main.o factorial.o
@@ -17,7 +17,7 @@ g++ main.o factorial.o
 #### ----OR----
 
 ```
-g++ main.cpp factorial.cpp
+g++ factorialInCppGppMain.cpp factorial.cpp
 ./a.out
 
 ```
