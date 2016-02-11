@@ -31,4 +31,4 @@ g++ factorialInCppGppMain.cpp factorial.cpp
 * Browse the location to the folder 'factorialInCppEclipse'
 * Select project type as Executable -> Empty Project 
 * Select Finish
-* Build and then Run
+* Build and then Run the program
